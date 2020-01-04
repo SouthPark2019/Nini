@@ -1,0 +1,4 @@
+F:\Nini\.NET Framework\Nini\Nini\bin\Debug\Nini.dll
+F:\Nini\.NET Framework\Nini\Nini\bin\Debug\Nini.pdb
+F:\Nini\.NET Framework\Nini\Nini\obj\Debug\Nini.dll
+F:\Nini\.NET Framework\Nini\Nini\obj\Debug\Nini.pdb
