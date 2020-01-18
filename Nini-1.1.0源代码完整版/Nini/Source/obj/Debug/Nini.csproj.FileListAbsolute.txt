@@ -1,5 +1,0 @@
-F:\Nini\Nini-1.1.0源代码完整版\Nini\Bin\DotNet\1.0\Debug\Nini.dll
-F:\Nini\Nini-1.1.0源代码完整版\Nini\Bin\DotNet\1.0\Debug\Nini.pdb
-F:\Nini\Nini-1.1.0源代码完整版\Nini\Source\obj\Debug\Nini.csprojAssemblyReference.cache
-F:\Nini\Nini-1.1.0源代码完整版\Nini\Source\obj\Debug\Nini.dll
-F:\Nini\Nini-1.1.0源代码完整版\Nini\Source\obj\Debug\Nini.pdb
